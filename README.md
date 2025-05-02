@@ -1,7 +1,7 @@
 # 📘 HƯỚNG DẪN CÀI ĐẶT VÀ SỬ DỤNG CÁC CÔNG CỤ HỖ TRỢ SEO
 
 
-## 🧰 Công cụ & Plugin sử dụng
+## 🧰 Plugin sử dụng
 
 - **Asset CleanUp: Page Speed Booster**
 - **Async JavaScript**
@@ -26,10 +26,7 @@
 
 ---
 
-## 🛠️ Hướng dẫn cài đặt
-
-### 1. Cài đặt các plugin
-
+## 🛠️ Hướng dẫn cài đặt các plugin
 - Đăng nhập vào **WordPress Admin Panel**.
 - Truy cập **Plugins → Thêm Plugin**.
 - Tìm kiếm và cài từng plugin trong danh sách trên (nếu không có trong thư viện, có thể cài bằng file `.zip`).
